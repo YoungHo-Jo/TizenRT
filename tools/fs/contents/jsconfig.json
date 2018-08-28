@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES6"
+  },
+  "include": [
+    "/Users/zeroho/TizenRT/iotjs/src/js",
+    "/Users/zeroho/TizenRT/TizenRT/tools/fs/contents"
+  ]
+}
